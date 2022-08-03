@@ -1,0 +1,19 @@
+{
+  "name": "start_webpack",
+  "version": "1.0.0",
+  "description": "Learning webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webapack"
+  ],
+  "author": "Jermaine",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
