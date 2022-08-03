@@ -1,3 +1,3 @@
 const $ = require('jquery')
 
-$("#target").html("hello world")
+$("#target").html("Introduction to Webpack")
